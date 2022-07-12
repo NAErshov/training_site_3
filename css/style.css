@@ -400,3 +400,29 @@ body {
         padding: 0;
     }
 }
+/* ============================================================ */
+.stay-safe {
+    padding: 80px 0;
+}
+.stay-safe__container {
+    display: flex;
+    align-items: center;
+}
+.stay-safe__media {
+    flex: 0 1 50%;
+    text-align: center;
+}
+.stay-safe__content {
+    flex: 0 1 50%
+}
+.stay-safe__block-text {
+}
+
+
+.media-stay-safe {
+    width: 373px;
+    display: inline-block;
+    position: relative;
+}
+.media-stay-safe_image {
+}
